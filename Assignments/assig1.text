@@ -1,0 +1,4 @@
+git checkout -b newreponame # create new branch
+Git checkout master # switch back to master repo
+Git merge branch_name
+Git push
